@@ -19,7 +19,7 @@ Add the following `<script>` tag into the `<head>` tag section:
 
 ```html
 
-<script src="https://web-common.albertogferrar.io/scripts/btp.js"/>
+<script src="https://assets.web.albertogferrar.io/scripts/btp.js"/>
 ```
 
 <hr>
