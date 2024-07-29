@@ -1,15 +1,27 @@
 # Web common
 
-This repository contains resources typically integrated into every website.
+This repository contains useful resources for websites.
 
 ## Scripts
 
-- [Better to pay](https://github.com/albertogferrario/better-to-pay)
+> Scripts are obfuscated, check out the `Usage` section for how to integrate the script.
 
-## Usage
+<details>
+<summary>Better to pay</summary>
+
+### Better to pay
+
+[albertogferrario/better-to-pay](https://github.com/albertogferrario/better-to-pay)
+
+#### Usage
 
 Add the following `<script>` tag into the `<head>` tag section:
 
 ```html
-<script src="https://web-common.albertogferrar.io/script.js" />
+
+<script src="https://web-common.albertogferrar.io/scripts/btp.js"/>
 ```
+
+<hr>
+</details>
+
